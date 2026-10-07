@@ -1,4 +1,3 @@
-```python
 import os
 import pandas as pd
 import streamlit as st
@@ -419,4 +418,3 @@ st.markdown("---")
 st.caption(
     f"🔐 Oturum {OTURUM_GUN} gün boyunca hatırlanır."
 )
-```
